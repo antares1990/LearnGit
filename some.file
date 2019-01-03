@@ -1,4 +1,8 @@
-hello git
+"line from terminal@
 "git is awesome" 
 .
+<<<<<<< HEAD
 "Third lines"
+=======
+thirdline!!!
+>>>>>>> aebd994e8a1d132bed7441dc32c5482684a84853
